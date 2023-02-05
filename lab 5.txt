@@ -1,0 +1,21 @@
+./inheritance
+Child (Generation 0): blood type OO
+    Parent (Generation 1): blood type AO
+        Grandparent (Generation 2): blood type OA
+        Grandparent (Generation 2): blood type BO
+    Parent (Generation 1): blood type OB
+        Grandparent (Generation 2): blood type AO
+        Grandparent (Generation 2): blood type BO
+
+
+wget https://cdn.cs50.net/2021/fall/labs/5/inheritance.zip
+
+unzip inheritance.zip
+
+rm inheritance.zip
+
+cd inheritance
+
+inheritance/ $
+
+ls
